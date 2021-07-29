@@ -1,7 +1,7 @@
 # Hello I'm Victor F Hernandez
 <body style="align-items: center;">
 
-<h3>I'm a Full Stack Web Developer</h3>
+<h3>Full Stack Web Developer</h3>
 <h3>US Army Veteran</h3>
 
 [comment]: <> (- 🔭 I’m currently working on Mario Theme Stages)
@@ -29,7 +29,7 @@
 
 <h2>Exposure to/Currently Learning: </h2>
 
-<img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="Python" width="40"/>
+<a href="https://www.python.org"><img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="Python" width="40"/> </a>
 
 <hr>
 
