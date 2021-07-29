@@ -1,10 +1,10 @@
-# Hello my name is Victor F Hernandez
+# Hello I'm Victor F Hernandez
 <body style="align-items: center;">
 
-<h3>A Full Stack Web Developer</h3>
+<h3>I'm a Full Stack Web Developer</h3>
 <h3>US Army Veteran</h3>
 
-- 🔭 I’m currently working on Mario Theme Stages
+[comment]: <> (- 🔭 I’m currently working on Mario Theme Stages)
 
 - 🌱 I’m currently learning **Python**
 
